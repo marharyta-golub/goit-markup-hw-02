@@ -29,7 +29,8 @@ font-weight: 500;
     letter-spacing: 0.02em;
     color:#2E2F42;
 }
-.nav-link:hover, .nav-link:focus{
+.nav-link:hover,
+.nav-link:focus{
     color:#404bbf;
 }
 .auth-nav .nav-link{
